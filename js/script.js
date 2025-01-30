@@ -9,7 +9,7 @@ const texto = document.getElementById('texto');
 // Función para cambiar a lo que pasa cuando se presiona "Sí"
 siBtn.addEventListener('click', () => {
     // Cambiar la imagen y texto
-    imagen.src = 'img/perritoh.jpeg';  // Cambiar la imagen
+    imagen.src = 'img/perritoh.jpg';  // Cambiar la imagen
     texto.textContent = 'TE AMOOOOO ♡';  // Cambiar el texto del h1
 
     // Cambiar los GIFs
