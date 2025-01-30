@@ -1,6 +1,6 @@
 body {
     font-family: 'Comic Sans MS';
-    background-image: url('../img/fondo.jpeg');
+    background-image: url('../img/fondo.jpg');
     background-size: 575px 1100px; /* Tamaño fijo de la imagen */
     background-position: center;
     background-repeat: repeat;
