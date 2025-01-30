@@ -10,13 +10,13 @@ const texto = document.getElementById('texto');
 const siOpciones = [
     { img: 'img/perrito.jpg', text: 'Ya te dije que te amo? ♡ ', gif: 'img/kirbyapa.gif' },
     { img: 'img/cat heart.jpg', text: 'Te debo muchos besitos amor <3 ' , gif: 'img/kirbyfeli.gif' },
-    { img: 'img/menu.jpg', text: 'TE AMOOOOO MUCHISIMOOOO MI NIÑOOOO!! 💕', gif: 'img/kirbyyei.gif' }
+    { img: 'img/menu.jpeg', text: 'TE AMOOOOO MUCHISIMOOOO MI NIÑOOOO!! 💕', gif: 'img/kirbyyei.gif' }
 ];
 
 const noOpciones = [
     { img: 'img/devastado.jpg', text: 'Por qué ño amor? (⁠｡⁠•́⁠︿⁠•̀⁠｡⁠) ', gif: 'img/kirbywat.gif' },
     { img: 'img/cry.jpg', text: 'Ese boton solo es para fines ilustrativos amor :c', gif: 'img/kirbycu.gif' },
-    { img: 'img/tite.jpg', text: '¿De verdad no quieres? (⁠╥⁠﹏⁠╥⁠)', gif: 'img/kirbycry.gif' }
+    { img: 'img/tite.jpeg', text: '¿De verdad no quieres? (⁠╥⁠﹏⁠╥⁠)', gif: 'img/kirbycry.gif' }
 ];
 
 // Contadores para alternar entre opciones
