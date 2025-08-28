@@ -9,8 +9,8 @@ const texto = document.getElementById('texto');
 // Listas de imágenes, GIFs y textos para cada botón
 const siOpciones = [
     { img: 'img/perrito.jpg', text: 'Ya te dije que te amo? ♡ ', gif: 'img/kirbyapa.gif' },
-    { img: 'img/cat heart.jpg', text: 'Te debo muchos besitos amor <3 ' , gif: 'img/kirbyfeli.gif' },
-    { img: 'img/gatito star.jpg', text: 'TE AMOOOOO MUCHISIMOOOO MI NIÑOOOO!! 💕', gif: 'img/kirbyyei.gif' }
+    { img: 'img/cat heart.jpg', text: 'Abachooooo amor <3 ' , gif: 'img/kirbyfeli.gif' },
+    { img: 'img/gatito star.jpg', text: 'Te amo  mi quesito oaxaca todo chiquito todo bonitoo 💕', gif: 'img/kirbyyei.gif' }
 ];
 
 const noOpciones = [
@@ -50,3 +50,4 @@ noBtn.addEventListener('click', () => {
     // Avanzar al siguiente elemento de la lista (cíclico)
     noIndex = (noIndex + 1) % noOpciones.length;
 });
+
